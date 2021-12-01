@@ -16,3 +16,6 @@
 
 # Config files
 *.conf
+
+# so sum
+go.sum
